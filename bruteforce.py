@@ -74,3 +74,7 @@ for word in words:
     else:
         print(Fore.YELLOW  + "[-]" + Fore.RESET + " {0}".format(word) + Fore.YELLOW  + " - " + Fore.RESET + "{0}".format(tmp))
 print("\n" + Fore.YELLOW  + "[FAIL] No password was found." + Fore.RESET)
+
+
+
+
