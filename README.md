@@ -1,4 +1,3 @@
-#>_Brute Force
-Brute-force script for Linux /etc/shadow hashes
+# >_Brute Force
+## Brute force script for Linux
 
-You can pass the wordlist by argument or in the run time.
